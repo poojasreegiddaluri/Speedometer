@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.body {
+  margin: 0px;
+}
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ffffff;
+}
+.image {
+  height: 200px;
+  width: 370px;
+}
+.buttons-container {
+  display: flex;
+  margin: 10px;
+}
+.button1 {
+  background-color: #0b69ff;
+  height: 40px;
+  width: 80px;
+  color: white;
+  font-size: 10px;
+  margin-right: 20px;
+}
+.button2 {
+  background-color: transparent;
+  height: 40px;
+  width: 80px;
+  color: white;
+  font-size: 10px;
+}
